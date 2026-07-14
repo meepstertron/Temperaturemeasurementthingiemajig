@@ -49,6 +49,9 @@ However i do not feel as if i used ai to a higher degree than 20% since i still 
 ![Rendered back side of pcb showing components and silkscreen](image-2.png)
 ![3d mockup of case lid](image-3.png)
 ![3d mockup of case body](image-4.png)
+![Schematic](image-5.png)
+![2d PCB with all layers visible, Front in focus](image-6.png)
+![2d PCB with all layers visible, Back in focus](image-7.png)
 ## Hackclub? 
 
 This is a submission to hackclub's forge! Hackclub is a cool charity yall should go check them out!
