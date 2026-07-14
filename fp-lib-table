@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "jans_funky_parts") (type "KiCad") (uri "/var/home/jkoch/KiCad/jans_funky_parts.pretty") (options "") (descr ""))
+)
