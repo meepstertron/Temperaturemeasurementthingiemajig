@@ -19,3 +19,4 @@ U1,SOT23-6,1,CMT2119A,
 U2,TSSOP-20_4.4x6.5mm_P0.65mm,1,CH32V003FxPx,
 U3,Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad,1,SHT4x,
 Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,26Mhz,
+AN1,Antenna_Helical_Spring,1,868MHz
