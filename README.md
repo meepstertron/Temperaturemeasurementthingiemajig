@@ -25,9 +25,14 @@ However i do not feel as if i used ai to a higher degree than 20% since i still 
  - KiCad
  - Onshape
 
+## Images :D
+![Rendered front side of pcb showing components and silkscreen](image-1.png)
+![Rendered back side of pcb showing components and silkscreen](image-2.png)
+![3d mockup of case lid](image-3.png)
+![3d mockup of case body](image-4.png)
 ## Hackclub? 
 
-This is a submission to hackclub's forge! Hackclub is a cool charity yall should go check them out
+This is a submission to hackclub's forge! Hackclub is a cool charity yall should go check them out!
 
 ## Contact me or sum
 
